@@ -18,7 +18,7 @@ sheet_name = 'processlist'; % select sheet in excel_file to process
 
 matfile_dir = 'E:\ZoeVideos\TDTMATFiles'; % put TDT converted mat files here. CHANGE THIS
 % load_data_dir = 'C:\Users\zzhang21\Documents\GitHub\SocialPhotometry\example'; % CHANGE THIS
-load_data_dir = 'C:\Users\zzhang21\Documents\GitHub\SocialPhotometry\example'; % CHANGE THIS
+load_data_dir = 'E:\ZoePhotometry\example'; % example path on violet
 save_data_dir = 'C:\Users\zzhang21\Documents\GitHub\SocialPhotometry\example'; % CHANGE THIS
 
 timestamp_dir = [load_data_dir '\ManualTimestamps']; % put manual timestamp (.csv or .xlsx) files here
